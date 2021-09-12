@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bai2_lab2_TranMinhCanh/1.0.0": {
+        "runtime": {
+          "bai2_lab2_TranMinhCanh.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bai2_lab2_TranMinhCanh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

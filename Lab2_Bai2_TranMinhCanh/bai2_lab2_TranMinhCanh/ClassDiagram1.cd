@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="bai2_lab2_TranMinhCanh.frmGiaoVien">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MgAAAAAAECHgJjEAAACAkEADAGMQgAAggAECCAAAEwY=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.DanhMucMonHoc">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DanhMucMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.frmTBGiaoVien">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAIAICAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>frmTBGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.frmThongTinGiaoViencs">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAADAACAAIADAQEAAEgAAAQEAAAAAgA=</HashCode>
+      <FileName>frmThongTinGiaoViencs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.QuanLyGiaoVien">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="bai2_lab2_TranMinhCanh.QuanLyGiaoVien.KieuTim" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>QuanLyGiaoVien.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgCCAAAACAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>QuanLyGiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.GiaoVien">
+    <Position X="7" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAAAEAAAAAABAAAACQAAICI=</HashCode>
+      <FileName>GiaoVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bai2_lab2_TranMinhCanh.MonHoc">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
